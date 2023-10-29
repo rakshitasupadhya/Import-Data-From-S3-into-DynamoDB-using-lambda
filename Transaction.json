@@ -1,0 +1,7 @@
+{"Transaction":
+[
+{ "transid": "101","transtype": "Purchase", "amount": 5},
+{ "transid": "102","transtype": "Refund", "amount": 25 },
+{ "transid": "601","transtype": "Refund", "amount": 0 } 
+]
+}
